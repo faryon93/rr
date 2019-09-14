@@ -1,5 +1,5 @@
 # rr-workerlog
-A service which can be plugged in the [Roadrunner](https://github.com/spiral/roadrunner) service bus.It forwards all output of the workers `stderr` to `stdout` of roadrunner. Therefore it is possible to implement a logging interface in the PHP workers without having roadrunners debug option enabled.
+A service which can be plugged in the [Roadrunner](https://github.com/spiral/roadrunner) service bus. It forwards all output of the workers `stderr` to `stdout` of roadrunner. Therefore it is possible to implement a logging interface in the PHP workers without having roadrunners debug option enabled.
 
 ## Usage
 In order to use this service you have to build roadrunner your self. Just copy the original [main.go](https://github.com/spiral/roadrunner/blob/master/cmd/rr/main.go) file and register this package as a new service.
