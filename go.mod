@@ -15,10 +15,10 @@ require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.7 // indirect
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/golang/protobuf v1.4.2 // indirect
+	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/json-iterator/go v1.1.10 // indirect
+	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.3 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/mattn/go-colorable v0.1.7 // indirect
@@ -32,10 +32,10 @@ require (
 	github.com/olekukonko/tablewriter v0.0.4 // indirect
 	github.com/pelletier/go-toml v1.2.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_golang v1.7.1 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
-	github.com/prometheus/common v0.10.0 // indirect
-	github.com/prometheus/procfs v0.1.3 // indirect
+	github.com/prometheus/common v0.26.0 // indirect
+	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/shirou/gopsutil v2.20.7+incompatible // indirect
 	github.com/spf13/afero v1.1.2 // indirect
 	github.com/spf13/cast v1.3.0 // indirect
@@ -46,10 +46,10 @@ require (
 	github.com/spiral/goridge/v2 v2.4.6 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a // indirect
-	golang.org/x/net v0.0.0-20200222125558-5a598a2470a0 // indirect
-	golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1 // indirect
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344 // indirect
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40 // indirect
 	golang.org/x/text v0.3.2 // indirect
-	google.golang.org/protobuf v1.23.0 // indirect
+	google.golang.org/protobuf v1.26.0-rc.1 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
-	gopkg.in/yaml.v2 v2.2.5 // indirect
+	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
